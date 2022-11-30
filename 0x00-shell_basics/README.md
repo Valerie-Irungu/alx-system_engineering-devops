@@ -11,3 +11,4 @@ delete the file betty
 deletes my_first_directory directory
 lists all files in the current directory and the parent of working directory
 lists the type of the iamafile in the tmp directory
+creates a symbolic link
