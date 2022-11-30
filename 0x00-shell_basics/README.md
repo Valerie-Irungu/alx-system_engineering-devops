@@ -8,3 +8,4 @@ ls -na displays current directory contents in the long format
 creates a directory in the /tmp directory
 moves the file Betty to the given directory
 delete the file betty
+deletes my_first_directory directory
