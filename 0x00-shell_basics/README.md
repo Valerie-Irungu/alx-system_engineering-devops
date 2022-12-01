@@ -15,3 +15,4 @@ creates a symbolic link
 copies all the html files from the current working directory to the parent working directory
 moves all files beginning with uppercase letter to /tmp/u directory
 rm *~ delets all files in the cureent working directory ending with the character ~
+creates a directory in the current directory
