@@ -3,4 +3,5 @@ whoami prints the effective username of the current user
 groups lists all the groups the current user is part of
 sudo chown betty hello changes the owner of the hello file to the user betty
 touch hello creates an empty file called hello
-chmod 600 hello adds execute permission to the owner 
+chmod 744 hello adds execute permission to the owner
+chmod 644 hello adds execute permission to the owner,group owner and read permission to other users
