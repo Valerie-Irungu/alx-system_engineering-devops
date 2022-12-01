@@ -1,2 +1,0 @@
-su switches current user to the other user
-whoami prints the effective username of the current user
