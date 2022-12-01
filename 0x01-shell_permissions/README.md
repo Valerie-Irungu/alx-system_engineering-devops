@@ -8,4 +8,5 @@ chmod 754 hello adds execute permission to the owner,group owner and read permis
 chmod a+x hello adds execution permission to the owner, group owner and other users to the file hello
 chmod 007 hello adds execution permission to others only
 chmod 753 hello sets the mode of the file hello
-chmod --refence=olleh hello sets mode of the hello file same as that of olleh's
+chmod --reference olleh hello sets mode of the hello file same as that of olleh's
+chmod -R a+x ./ executes permission to all subdirectories
