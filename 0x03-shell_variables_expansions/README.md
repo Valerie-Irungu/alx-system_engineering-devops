@@ -6,4 +6,5 @@ Prints a list of environment variables
 lists all local variables and environment variables and functions
 creates a new local variable with the name BEST with the value School
 creates a global variable wih the name BEST and value School
-Add the value 128       
+Add the value 128
+prints the result of POWER divided by DIVIDE        
